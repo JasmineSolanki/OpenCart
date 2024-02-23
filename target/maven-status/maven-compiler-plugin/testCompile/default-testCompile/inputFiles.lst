@@ -1,0 +1,12 @@
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\BaseClass\BaseClass.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\PageObjects\AccountRegistrationPage.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\PageObjects\BasePage.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\PageObjects\HomePage.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\PageObjects\LoginPage.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\PageObjects\MyAccountPage.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\TestCases\TC_001_AccountRegistrationTest.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\TestCases\TC_002_LoginTest.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\TestCases\TC_003_LoginDDT.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\utilities\DataProviders.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\utilities\ExcelUtility.java
+C:\Users\digvi\eclipse-workspace\Opencart\src\test\java\utilities\ExtentReportManager.java
